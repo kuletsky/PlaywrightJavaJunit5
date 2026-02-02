@@ -41,3 +41,14 @@ build/
 /.idea/encodings.xml
 /.idea/misc.xml
 /.idea/vcs.xml
+/src/test/java/com/empower/browserstack.yml
+/src/test/java/com/empower/browserstack-analytics-desktop.yml
+/src/test/resources/.properties
+/log/automation.log
+/log/browserstack-javaagent.debug.log
+/log/browserstack-javaagent.log
+/logs/browserstack-plugin.log
+/browserstack.yml
+/browserstack-analytics-desktop.yml
+/log/key-metrics.json
+/log/sdk-debug-utility.log
